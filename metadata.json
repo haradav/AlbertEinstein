@@ -1,7 +1,14 @@
 {
   "name": "Albert Einstein",
   "symbol": "EMCII",
-  "description": "KNOWLEDGE TOKEN",
-  "image": "https://raw.githubusercontent.com/haradav/AlbertEinstein/7db3ca58b31da823cf338abe22f55bb39fefc63a/albert-einstein-sticks-out-his-tongue-when-asked-by-news-photo-1681316749.avif",
+  "description": "WISDOM TOKEN",
+  "image": "https://raw.githubusercontent.com/haradav/AlbertEinstein/refs/heads/main/IMG_8367.png",
+  "external_url": "https://alberteinstein.uc.r.appspot.com", 
+  "creator": {
+    "name": "Albert Einstein - EMCII TOKEN",
+    "website": "https://alberteinstein.uc.r.appspot.com",
+    "twitter": "https://twitter.com/emcii_token",
+    "github": "https://github.com/haradav/AlbertEinstein"
+  },
   "attributes": []
 }
